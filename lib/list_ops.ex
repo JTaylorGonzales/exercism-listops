@@ -26,11 +26,11 @@ defmodule ListOps do
   def reduce(l, acc, f) do
   end
 
-  @spec append(list, list) :: list
-  def append(a, b) do
-  end
+  # @spec append(list, list) :: list
+  # def append(a, b) do
+  # end
 
-  @spec concat([[any]]) :: [any]
-  def concat(ll) do
-  end
+  # @spec concat([[any]]) :: [any]
+  # def concat(ll) do
+  # end
 end
